@@ -80,7 +80,7 @@ const App = () => {
 
   return (
     <div className="location-selector">
-      <h2>Location Selector</h2>
+      <h2>Select Location</h2>
       <div className="dropdown">
         <label htmlFor="country">Select Country:</label>
         <select
